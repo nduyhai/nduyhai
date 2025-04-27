@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nguyen Hai
+# Hi there 👋, I'm Bronn
 
 I'm a **Senior Software Engineer** passionate about building scalable systems and solving real-world problems with clean, efficient code.
 
